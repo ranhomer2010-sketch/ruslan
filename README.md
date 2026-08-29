@@ -2,7 +2,11 @@
 
 Публичный прототип многостраничного сайта образовательной Академии.
 
-## Демо
+## GitHub Pages
+
+https://ranhomer2010-sketch.github.io/ruslan/
+
+## Резервное демо
 
 https://anm-rehab.pastel-seal-2668.chatgpt.site
 
